@@ -1,0 +1,17 @@
+objetivo,escenario,modelo,mae_promedio_dias,mae_desviacion,pruebas,tamano_prueba_promedio
+dias_ciclo_observado,conocidos,M1_A47,50.60579634190887,3.63342697919382,5,85.2
+dias_ciclo_observado,conocidos,M2_A47_A57,50.958153170356994,4.656350895182843,5,85.2
+dias_ciclo_observado,conocidos,M3_A47_A57_A69,49.76865864403094,5.189571481734154,5,85.2
+dias_ciclo_observado,conocidos,MEDIANA,45.90008590971272,4.79655956201426,5,85.2
+dias_ciclo_observado,no_vistos,M1_A47,57.144764473751685,15.708543083113254,5,92.6
+dias_ciclo_observado,no_vistos,M2_A47_A57,58.05600569919883,15.643978153767579,5,92.6
+dias_ciclo_observado,no_vistos,M3_A47_A57_A69,59.39947751374475,17.544162004362626,5,92.6
+dias_ciclo_observado,no_vistos,MEDIANA,46.98461058633971,19.574900717051282,5,92.6
+dias_ejecucion_observados,conocidos,M1_A47,33.49958006819865,3.419837229343742,5,85.2
+dias_ejecucion_observados,conocidos,M2_A47_A57,33.482737621662615,3.5407877670983336,5,85.2
+dias_ejecucion_observados,conocidos,M3_A47_A57_A69,34.022857572643815,3.8274663681693477,5,85.2
+dias_ejecucion_observados,conocidos,MEDIANA,29.73589006579376,3.094653958983431,5,85.2
+dias_ejecucion_observados,no_vistos,M1_A47,39.25027597951653,7.655008595792101,5,92.6
+dias_ejecucion_observados,no_vistos,M2_A47_A57,39.83214753197798,7.363095448499946,5,92.6
+dias_ejecucion_observados,no_vistos,M3_A47_A57_A69,41.67108101838196,11.650525795964283,5,92.6
+dias_ejecucion_observados,no_vistos,MEDIANA,31.864540430661656,8.79143541895799,5,92.6

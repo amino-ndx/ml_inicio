@@ -1,0 +1,63 @@
+"idcriterioevaluacion","nombrecriterioevaluacion","alias","descripcion","descripcioninformetecnico","planificacion","ordenseguimiento","estado"
+1,"APo_Cl","APo_Cl","Aporte del Cliente",NULL,False,NULL,1
+2,"FAb_Fu","REE_Fu","Fabricación de Pieza Fundida","Solicita Componente a Fundicion +
+Fundicion de Componentes segun requerimiento +
+Inspeccion y Liberacion de Componente Fundido +
+Mecanizado de Componente segun Plano +
+Control General Geometrico en Maquina +
+Control Metrologico y Liberacion Final",False,1,1
+3,"FAb_Pa","REE_Pa","Fabricación de Pieza Comercial","Solicita Material a Compras +
+Realizacion de Compra de Material segun requerimiento +
+Recepcion e Inspeccion de Material Comprado +
+Mecanizado de Componente segun Plano +
+Control General Geometrico en Maquina +
+Control Metrologico y Liberacion Final",False,4,1
+4,"FAb_Ca","REE_Ca","Fabricación de Pieza Estructural","Solicita Componente a Caldereria +
+Fabricacion de Componentes segun requerimiento +
+Inspeccion y Liberacion de Componente Fabricado +
+Mecanizado de Componente segun Plano +
+Control General Geometrico en Maquina +
+Control Metrologico y Liberacion Final",False,5,1
+5,"Rpo","REE_Co","Compra de Pieza Comercial","Solicita Material a Compras +
+Realizacion de Compra de Material segun requerimiento +
+Recepcion e Inspeccion de Material Comprado +
+Entrega de Material a Evaluador / Taller Mecanico +
+Revision de Material Comprado segun requerimientos +
+Almacenaje en Taller Mecanico hasta su requerimiento en Armado",False,NULL,1
+6,"Rpo_Sm","Rpo_Sm","Compra de Sello Mecánico",NULL,False,NULL,0
+7,"REm_LGe","REU_Lg","Remanufactura - Limpieza General","Limpieza Quimica/Mecanica General del Componente +
+Control Metrologico y Liberacion Final",False,2,1
+8,"REm_RMe","REU_Me","Remanufactura - Recuperación Menor","Limpieza Quimica/Mecanica General del Componente +
+Pulido y Control General en Maquina +
+Control Metrologico y Liberacion Final",False,2,1
+9,"REm_RSt","REU_St","Remanufactura - Recuperación Estándar","Limpieza Quimica/Mecanica General del Componente +
+Pulido General en Maquina +
+Mecanizado y Reemplazo de los Elementos de Desgaste +
+Control General Geometrico en Maquina +
+Control Metrologico y Liberacion Final",False,2,1
+10,"REm_RMa","REC_Ma","Remanufactura - Recuperación Mayor","Limpieza Quimica/Mecanica General del Componente +
+Pulido General en Maquina +
+Mecanizado y Reemplazo de los Elementos de Desgaste +
+Mecanizado para Realizar Aportes de Soldadura o Instalacion de insertos +
+Tratamiento Termico (Alivio de Tensiones) +
+Mecanizado de Componente segun Plano +
+Control General Geometrico en Maquina +
+Control Metrologico y Liberacion Final",False,2,1
+11,"REm_RCr","REC_Cr","Remanufactura - Recuperación Cítica","Limpieza Quimica/Mecanica General del Componente +
+Pulido General en Maquina +
+Mecanizado y Reemplazo de los Elementos de Desgaste +
+Mecanizado para Realizar Aportes de Soldadura o Instalacion de insertos +
+Reconstruccion de Geometrias con aportes de soldadura +
+Tratamiento Termico (Alivio de Tensiones) +
+Mecanizado de Componente segun Plano +
+Control General Geometrico en Maquina +
+Control Metrologico y Liberacion Final",False,2,1
+12,"Stock_Cc","REE_Stock","Fabricación de Pieza en Stock","Solicita Material a Pañol +
+Revision, inspeccion y entrega de material segun requerimiento +
+Mecanizado de Componente segun Plano +
+Control General Geometrico en Maquina +
+Control Metrologico y Liberacion Final",False,NULL,1
+13,"FAb_FuPl","REE_FuPl","Fabricación de Pieza Fundida para Planificación",NULL,True,99,1
+14,"SErv_Tm","SErv_Tm","Servicios Taller Mecánico",NULL,False,NULL,1
+15,"Rpo_01","Rpo_01","Compra de Pieza Comercial (01)",NULL,False,NULL,0
+16,"Bodega_TM","Bodega_TM","Bodega Taller Mecánico",NULL,False,NULL,1

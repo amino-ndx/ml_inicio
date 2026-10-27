@@ -1,0 +1,2 @@
+a70_ot,a72_ot,a74_lineas,a74_ot,catalogo_a55_usado,p2_hito_en_ventana,p2_con_lineas_al_hito,train,test,fuera_por_resultado_futuro,test_modelos_no_vistos,corte,P2_M3,advertencia
+381,381,30686,345,True,352,345,228,114,10,32,2025-01-01,NO ENTRENADO: A69 carece de fecha por componente; posible fuga temporal,Fechacreacion no certifica versiones de registros editados despues del hito; resultado retrospectivo

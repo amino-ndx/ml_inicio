@@ -1,0 +1,27 @@
+# PostgreSQL Database Connection & Data Manipulation
+
+psycopg2-binary>=2.9.9
+
+pandas>=2.2.0
+
+numpy>=1.26.0
+
+
+
+# Machine Learning & Analytics
+
+scikit-learn>=1.4.0
+
+xgboost>=2.0.0
+
+
+
+# Image Processing & Computer Vision (For future integration)
+
+opencv-python>=4.9.0.80
+
+
+
+# Web Framework / UI (Optional for creating dashboards)
+
+streamlit>=1.31.0
